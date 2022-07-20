@@ -1,0 +1,141 @@
+
+Property TPD Gain : 1   Temp Area : 1
+DDE : 2, TNR : 2, SNR : 2 
+AGC MODE : 2, BOS : 32, MAXGAIN : 16 
+ÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿ
+Property TPD Gain : 1   Temp Area : 1
+DDE : 2, TNR : 2, SNR : 2 
+AGC MODE : 2, BOS : 32, MAXGAIN : 16 
+FW_VERSION : MN640_standard_V1.0
+Compile Date: 04/29/22
+Compile Time: 19:46:25
+PRV A Width: 512, Height:640,IR Width: 640, Height:512
+[65535--1--1  15:19:18]  RTC6122 IR sensor ,25 fps
+PRV A Width: 1024, Height:640,IR Width: 640, Height:512
+[65535--1--1  15:20:45]  RTC6122 IR sensor ,25 fps
+ÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿ
+Property TPD Gain : 1   Temp Area : 1
+DDE : 2, TNR : 2, SNR : 2 
+AGC MODE : 2, BOS : 32, MAXGAIN : 16 
+FW_VERSION : MN640_standard_V1.0
+Compile Date: 04/29/22
+Compile Time: 19:46:25
+PRV A Width: 1024, Height:640,IR Width: 640, Height:512
+[65535--1--1  15:19:20]  RTC6122 IR sensor ,25 fps
+ÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿ
+Property TPD Gain : 1   Temp Area : 1
+DDE : 2, TNR : 2, SNR : 2 
+AGC MODE : 2, BOS : 32, MAXGAIN : 16 
+FW_VERSION : MN640_standard_V1.0
+Compile Date: 04/29/22
+Compile Time: 19:46:25
+PRV A Width: 512, Height:640,IR Width: 640, Height:512
+[65535--1--1  15:19:17]  RTC6122 IR sensor ,25 fps
+PRV A Width: 512, Height:640,IR Width: 640, Height:512
+[65535--1--1  15:19:22]  RTC6122 IR sensor ,25 fps
+PRV A Width: 512, Height:640,IR Width: 640, Height:512
+[65535--1--1  15:19:26]  RTC6122 IR sensor ,25 fps
+ÿÿÿÿÿÿÿÿÿÿÿPRV A Width: 512, Height:640,IR Width: 640, Height:512
+[65535--1--1  15:19:30]  RTC6122 IR sensor ,25 fps
+PRV A Width: 512, Height:640,IR Width: 640, Height:512
+[65535--1--1  15:19:34]  RTC6122 IR sensor ,25 fps
+PRV A Width: 512, Height:640,IR Width: 640, Height:512
+[65535--1--1  15:19:39]  RTC6122 IR sensor ,25 fps
+PRV A Width: 512, Height:640,IR Width: 640, Height:512
+[65535--1--1  15:19:43]  RTC6122 IR sensor ,25 fps
+ÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿ
+Property TPD Gain : 1   Temp Area : 1
+DDE : 2, TNR : 2, SNR : 2 
+AGC MODE : 2, BOS : 32, MAXGAIN : 16 
+FW_VERSION : MN640_standard_V1.0
+Compile Date: 04/29/22
+Compile Time: 19:46:25
+PRV A Width: 640, Height:512,IR Width: 640, Height:512
+[65535--1--1  15:19:36]  RTC6122 IR sensor ,25 fps
+PRV A Width: 512, Height:640,IR Width: 640, Height:512
+[65535--1--1  15:20:3]  RTC6122 IR sensor ,25 fps
+PRV A Width: 512, Height:640,IR Width: 640, Height:512
+[65535--1--1  15:26:47]  RTC6122 IR sensor ,25 fps
+ÿÿÿÿÿÿÿÿÿÿÿÿPRV A Width: 512, Height:640,IR Width: 640, Height:512
+[65535--1--1  15:27:16]  RTC6122 IR sensor ,25 fps
+ÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿ
+Property TPD Gain : 1   Temp Area : 1
+DDE : 2, TNR : 2, SNR : 2 
+AGC MODE : 2, BOS : 32, MAXGAIN : 16 
+FW_VERSION : MN640_standard_V1.0
+Compile Date: 04/29/22
+Compile Time: 19:46:25
+PRV A Width: 512, Height:640,IR Width: 640, Height:512
+[65535--1--1  15:19:17]  RTC6122 IR sensor ,25 fps
+ÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿ
+Property TPD Gain : 1   Temp Area : 1
+DDE : 2, TNR : 2, SNR : 2 
+AGC MODE : 2, BOS : 32, MAXGAIN : 16 
+FW_VERSION : MN640_standard_V1.0
+Compile Date: 04/29/22
+Compile Time: 19:46:25
+PRV A Width: 640, Height:512,IR Width: 640, Height:512
+[65535--1--1  15:19:18]  RTC6122 IR sensor ,25 fps
+PRV A Width: 512, Height:640,IR Width: 640, Height:512
+[65535--1--1  15:19:40]  RTC6122 IR sensor ,25 fps
+PRV A Width: 512, Height:640,IR Width: 640, Height:512
+[65535--1--1  15:21:20]  RTC6122 IR sensor ,25 fps
+ÿÿÿÿÿÿÿÿÿÿÿPRV A Width: 512, Height:640,IR Width: 640, Height:512
+[65535--1--1  15:21:41]  RTC6122 IR sensor ,25 fps
+ÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿ
+Property TPD Gain : 1   Temp Area : 1
+DDE : 2, TNR : 2, SNR : 2 
+AGC MODE : 2, BOS : 32, MAXGAIN : 16 
+FW_VERSION : MN640_standard_V1.0
+Compile Date: 04/29/22
+Compile Time: 19:46:25
+PRV A Width: 640, Height:512,IR Width: 640, Height:512
+[65535--1--1  15:19:19]  RTC6122 IR sensor ,25 fps
+ÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿ
+Property TPD Gain : 1   Temp Area : 1
+DDE : 2, TNR : 2, SNR : 2 
+AGC MODE : 2, BOS : 32, MAXGAIN : 16 
+FW_VERSION : MN640_standard_V1.0
+Compile Date: 04/29/22
+Compile Time: 19:46:25
+PRV A Width: 512, Height:640,IR Width: 640, Height:512
+[65535--1--1  15:19:17]  RTC6122 IR sensor ,25 fps
+ÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿ
+Property TPD Gain : 1   Temp Area : 1
+DDE : 2, TNR : 2, SNR : 2 
+AGC MODE : 2, BOS : 32, MAXGAIN : 16 
+FW_VERSION : MN640_standard_V1.0
+Compile Date: 04/29/22
+Compile Time: 19:46:25
+PRV A Width: 512, Height:640,IR Width: 640, Height:512
+[65535--1--1  15:19:15]  RTC6122 IR sensor ,25 fps
+ÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿ
+Property TPD Gain : 1   Temp Area : 1
+DDE : 2, TNR : 2, SNR : 2 
+AGC MODE : 2, BOS : 32, MAXGAIN : 16 
+FW_VERSION : MN640_standard_V1.0
+Compile Date: 04/29/22
+Compile Time: 19:46:25
+PRV A Width: 512, Height:640,IR Width: 640, Height:512
+[65535--1--1  15:19:22]  RTC6122 IR sensor ,25 fps
+ÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿ
+Property TPD Gain : 1   Temp Area : 1
+DDE : 2, TNR : 2, SNR : 2 
+AGC MODE : 2, BOS : 32, MAXGAIN : 16 
+FW_VERSION : MN640_standard_V1.0
+Compile Date: 04/29/22
+Compile Time: 19:46:25
+PRV A Width: 640, Height:512,IR Width: 640, Height:512
+[65535--1--1  15:19:36]  RTC6122 IR sensor ,25 fps
+ÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿ
+Property TPD Gain : 1   Temp Area : 1
+DDE : 2, TNR : 2, SNR : 2 
+AGC MODE : 2, BOS : 32, MAXGAIN : 16 
+FW_VERSION : MN640_standard_V1.0
+Compile Date: 04/29/22
+Compile Time: 19:46:25
+PRV A Width: 640, Height:512,IR Width: 640, Height:512
+[65535--1--1  15:19:19]  RTC6122 IR sensor ,25 fps
+PRV A Width: 512, Height:640,IR Width: 640, Height:512
+[65535--1--1  15:22:42]  RTC6122 IR sensor ,25 fps
+ÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿ

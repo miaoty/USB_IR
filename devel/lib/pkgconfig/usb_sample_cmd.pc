@@ -1,0 +1,8 @@
+prefix=/home/tymiao/mty/usb_ir_catkin_cmake_amd64/USB_IR/devel
+
+Name: usb_sample_cmd
+Description: Description of usb_sample_cmd
+Version: 0.1.2
+Cflags: -I/home/tymiao/mty/usb_ir_catkin_cmake_amd64/USB_IR/src/USB_sample_cmd/include
+Libs: -L${prefix}/lib 
+Requires: roscpp rospy rosconsole std_msgs cv_bridge image_transport sensor_msgs
